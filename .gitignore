@@ -45,5 +45,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
+##mac os 
+.DS_Store
+
 ##maven
 /target/

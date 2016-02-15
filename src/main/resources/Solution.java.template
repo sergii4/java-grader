@@ -1,0 +1,9 @@
+package $packageName;
+
+public class $className
+	   implements com.getman.grader.Solution {
+
+   public int solution(int N) {
+      $expression
+   }
+}
